@@ -1,0 +1,15 @@
+D:\Baigiang\OOP\bai08\bin\Debug\net10.0\bai08.exe
+D:\Baigiang\OOP\bai08\bin\Debug\net10.0\bai08.deps.json
+D:\Baigiang\OOP\bai08\bin\Debug\net10.0\bai08.runtimeconfig.json
+D:\Baigiang\OOP\bai08\bin\Debug\net10.0\bai08.dll
+D:\Baigiang\OOP\bai08\bin\Debug\net10.0\bai08.pdb
+D:\Baigiang\OOP\bai08\obj\Debug\net10.0\bai08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Baigiang\OOP\bai08\obj\Debug\net10.0\bai08.AssemblyInfoInputs.cache
+D:\Baigiang\OOP\bai08\obj\Debug\net10.0\bai08.AssemblyInfo.cs
+D:\Baigiang\OOP\bai08\obj\Debug\net10.0\bai08.csproj.CoreCompileInputs.cache
+D:\Baigiang\OOP\bai08\obj\Debug\net10.0\bai08.sourcelink.json
+D:\Baigiang\OOP\bai08\obj\Debug\net10.0\bai08.dll
+D:\Baigiang\OOP\bai08\obj\Debug\net10.0\refint\bai08.dll
+D:\Baigiang\OOP\bai08\obj\Debug\net10.0\bai08.pdb
+D:\Baigiang\OOP\bai08\obj\Debug\net10.0\bai08.genruntimeconfig.cache
+D:\Baigiang\OOP\bai08\obj\Debug\net10.0\ref\bai08.dll
